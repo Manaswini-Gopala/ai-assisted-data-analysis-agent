@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 AI-Assisted Data Analysis Agent
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
@@ -222,7 +221,3 @@ MS in Management Information Systems — San Diego State University
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
-=======
-# ai-assisted-data-analysis-agent
-Conversational AI agent that lets anyone upload Excel data and ask business questions in plain English — powered by RAG + Llama 3.1
->>>>>>> c3ae9daccb59c4fa0dd212a27fb649ec09b79d05
