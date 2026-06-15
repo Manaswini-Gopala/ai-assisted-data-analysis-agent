@@ -1,0 +1,7 @@
+pandas
+openpyxl
+gradio
+matplotlib
+huggingface_hub
+requests
+numpy
