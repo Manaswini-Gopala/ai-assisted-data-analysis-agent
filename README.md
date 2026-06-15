@@ -212,12 +212,11 @@ The current version uses Hugging Face's inference API. For fully private enterpr
 
 ## 👩‍💻 Author
 
-**Manaswini Gopalakrishnan**
+**Manaswini Gopala**
 MS in Management Information Systems — San Diego State University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/manaswini-gopalakrishnan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manaswini-gopala/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Manaswini-Gopala)
-
 ---
 
 ## 📄 License
